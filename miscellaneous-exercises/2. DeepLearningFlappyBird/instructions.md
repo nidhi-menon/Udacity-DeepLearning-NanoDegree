@@ -11,7 +11,7 @@
 5. `pip install pygame`
 6. `pip install tensorflow==0.12`
 7. `git clone https://github.com/yenchenlin/DeepLearningFlappyBird.git`
-    * If you don't have git installed, you can download and extract the zip archive directly from [the repository(https://github.com/yenchenlin/DeepLearningFlappyBird)
+    * If you don't have git installed, you can download and extract the zip archive directly from [the repository](https://github.com/yenchenlin/DeepLearningFlappyBird)
 8. `cd DeepLearningFlappyBird`
     * If you downloaded the archive, you will need to navigate to the extracted folder **DeepLearningFlappyBird-master** instead
 9. `python deep_q_network.py`
