@@ -9,7 +9,7 @@
    ` python -c "import imageio; imageio.plugins.ffmpeg.download()"`
    
    ***Note:*** *If you get an error on the last command that ends in*
-   ~~~'RuntimeError: imageio.ffmpeg.download() has been deprecated. Use 'pip install imageio-ffmpeg' instead.' ~~~
+   `'RuntimeError: imageio.ffmpeg.download() has been deprecated. Use 'pip install imageio-ffmpeg' instead.' `
     *just run the command `pip install imageio-ffmpeg`. You may need to restart the terminal and reactivate the environment for the command to complete.*
 
 3. Download the Zip archive from the [fast-style-transfer repository](https://github.com/lengstrom/fast-style-transfer) and extract it. You can download it by clicking on the bright green button on the right.
